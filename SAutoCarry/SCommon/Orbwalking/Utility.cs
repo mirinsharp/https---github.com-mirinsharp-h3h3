@@ -12,7 +12,7 @@ namespace SCommon.Orbwalking
         private static readonly string[] AttackResets =
         {
             "dariusnoxiantacticsonh", "fioraflurry", "garenq",
-            "hecarimrapidslash", "jaxempowertwo", "jaycehypercharge", "leonashieldofdaybreak", "luciane", "lucianq", "lucianw", "gravesmove",
+            "hecarimrapidslash", "jaxempowertwo", "jaycehypercharge", "leonashieldofdaybreak", "luciane", "gravesmove",
             "monkeykingdoubleattack", "mordekaisermaceofspades", "nasusq", "nautiluspiercinggaze", "netherblade",
             "gangplankqwrapper", "poppydevastatingblow", "powerfist", "renektonpreexecute", "rengarq", "shyvanadoubleattack",
             "sivirw", "takedown", "talonnoxiandiplomacy", "trundletrollsmash", "vaynetumble", "vie", "volibearq", "masochism",
